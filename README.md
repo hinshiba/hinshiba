@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Univ Game Hackathon
+- 🌱 I’m currently learning Racket
 <!--
 **hinshiba/hinshiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
