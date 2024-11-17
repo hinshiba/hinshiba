@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Univ Game Hackathon
-- 🌱 I’m currently learning Racket
+- 🔭 I’m currently working on making KEMOMIMI for equipment manager system
+- 🌱 I’m currently learning Rust, C
 <!--
 **hinshiba/hinshiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
